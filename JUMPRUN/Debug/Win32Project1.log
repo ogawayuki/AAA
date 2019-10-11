@@ -1,0 +1,13 @@
+﻿2019/06/06 15:26:51 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\G0902\Desktop\授業関係\個人制作_01\JUMP RUN\Win32Project1.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\G0902\Desktop\授業関係\個人制作_01\JUMP RUN\Debug\Win32Project1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\G0902\Desktop\授業関係\個人制作_01\JUMP RUN\Debug\Win32Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\G0902\Desktop\授業関係\個人制作_01\JUMP RUN\Debug\Win32Project1.lib" /MACHINE:X86 Debug\Main.obj
+         Win32Project1.vcxproj -> C:\Users\G0902\Desktop\授業関係\個人制作_01\JUMP RUN\Debug\Win32Project1.exe
+     1>プロジェクト "C:\Users\G0902\Desktop\授業関係\個人制作_01\JUMP RUN\Win32Project1.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:31.84
