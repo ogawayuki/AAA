@@ -10,3 +10,4 @@
 #define ITEM2 100		//加速アイテムの数
 #define ISPEED 5		//アイテムや障害物の移動速度
 #define ISPEED2 6		//多重背景の移動速度
+#define ii 4
